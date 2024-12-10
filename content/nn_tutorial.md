@@ -15,3 +15,5 @@ To help upskill new ML CoP members, three colleagues and I organised series of i
 These tutorials were written using [Jupyter Notebooks](https://jupyter.org/), and designed to be followed interactively using [Binder](https://mybinder.org/).  
 
 Please click [this link](https://mybinder.org/v2/gh/jackhiggins458/Neural_Network_Tutorial/HEAD?labpath=notebooks%2F0_Welcome.ipynb) to launch the tutorial. (Unfortunately, Binder currently seems to be very slow and/or often fails to load. If you're having trouble with loading the interactive Binder, you can view the tutorial in a non-interactive environment directly on GitHub, linked in the title above).
+
+---

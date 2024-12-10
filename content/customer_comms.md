@@ -48,4 +48,5 @@ Due to the wide variety of DNS hosts and configurations used by our users, I wro
 > Please note that if the described changes are not made by **$current_date + 2 months**, your domain will no longer point to your website content, and the website will no longer be accessible via the domain. This means that anyone who entered **$example.tld** online would not be able to view your website.
 >
 > If you have any questions or concerns about this change, or any of the steps you need to take, please reply to this message and our Support team will be happy to assist.
->
+
+---

@@ -15,3 +15,5 @@ The inspiration for this page came from a collision of different interests at th
 - I was interested in the history of mathematics, and was reading a randomly selected mathematician's Wikipedia page each day.
 
 While I wouldn't consider this visualisation to be a particularly good piece of writing (I like to think my writing has improved significantly since university!), I'm still proud of the passion that was channelled into this work, and  still serves as a reminder that the written word is only one amongst many tools we have in the communication toolbox.
+
+---
