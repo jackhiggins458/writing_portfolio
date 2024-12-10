@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:35015/</loc>
   </url><url>
-    <loc>http://localhost:1313/customer_comms/</loc>
+    <loc>http://localhost:35015/customer_comms/</loc>
   </url><url>
-    <loc>http://localhost:1313/customer_responses/</loc>
+    <loc>http://localhost:35015/customer_responses/</loc>
   </url><url>
-    <loc>http://localhost:1313/data_viz/</loc>
+    <loc>http://localhost:35015/data_viz/</loc>
   </url><url>
-    <loc>http://localhost:1313/methodology_report/</loc>
+    <loc>http://localhost:35015/methodology_report/</loc>
   </url><url>
-    <loc>http://localhost:1313/nn_tutorial/</loc>
+    <loc>http://localhost:35015/nn_tutorial/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:35015/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:35015/tags/</loc>
   </url>
 </urlset>
