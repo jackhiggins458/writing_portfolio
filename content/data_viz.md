@@ -4,16 +4,16 @@
 
 ---
 
-I love communicating through writing, but some situations call for something more visual.
+While I love communicating through writing, some ideas can be more effectively expressed visually. 
 
-I graduated with a Bachelor of Science, majoring in both mathematics and computational science, including studies in algorithmics and data visualisation. My love of maths, data visualisation and Wikipedia bore this "Mathematicians of Wikipedia" visualisation.
+I graduated with a Bachelor of Science, majoring in both mathematics and computational science, including studies in algorithmics and data visualisation. My love of maths, data visualisation and Wikipedia was what lead to my "Mathematicians of Wikipedia" visualisation.
 
-The inspiration for this page came from a collision of different interests at the time:
+The inspiration for this page came from a collision of interests I had at the time:
 
-- I was implementing some graph/network algorithms in Python, and wanted to use them visualise something interesting.
-- I wanted to try the [Vega Lite](https://vega.github.io/vega-lite/) graphics library, and learn the basics of HTML.
+- I was implementing some graph/network algorithms in Python, and wanted to try seeing some of their outputs visually,
+- I wanted to out the [Vega Lite](https://vega.github.io/vega-lite/) graphics library (as an alternative to the ggplot2 library I usually used in R), and to learn the basics of HTML.
 - I was interested in the history of mathematics, and was reading a randomly selected mathematician's Wikipedia page each day.
 
-While I wouldn't consider this visualisation to be a particularly good piece of writing (I like to think my writing has improved significantly since university!), I'm still proud of the passion that was channelled into this work, and  still serves as a reminder that the written word is only one amongst many tools we have in the communication toolbox.
+While I wouldn't consider this visualisation to be representative of my current writing standards (I like to think my writing has improved significantly since university!), I'm still proud of the passion that was channelled into this work, and the experience I gained in better understanding forms of communication beyond the written word.
 
 ---
