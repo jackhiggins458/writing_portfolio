@@ -1,27 +1,27 @@
-# Interactive neural networks tutorial
+# Interactive machine learning tutorial
 
-*Where to view this portfolio piece:  [in this Binder (interactive)](https://mybinder.org/v2/gh/jackhiggins458/Neural_Network_Tutorial/HEAD?labpath=notebooks%2F0_Welcome.ipynb), or [on GitHub (static)](https://github.com/jackhiggins458/Neural_Network_Tutorial/).*
+*Where to view this piece:  [in this Binder (interactive)](https://mybinder.org/v2/gh/jackhiggins458/Neural_Network_Tutorial/HEAD?labpath=notebooks%2F0_Welcome.ipynb) [^1], or [on GitHub (static)](https://github.com/jackhiggins458/Neural_Network_Tutorial/).*
 
 ---
 
-After graduating university, I began working as a data analyst at Australia's national statistical agency, the Australian Bureau of Statistics.
+In my first role after graduating from university, I worked as a data scientist at the Australian Bureau of Statistics. At the Bureau, I was an active member of the Machine Learning Community of Practice, a group open to all staff interested in learning about machine learning. 
 
-At the Bureau of Statistics, I was involved in the Machine Learning Community of Practice, a special interest group that staff members could join to discuss and learn more about machine learning. 
+In 2021, the Bureau begun using more machine learning methods in statistical production processes. Consequently, there was a large influx of staff joining the community of practice, many of whom didn't have much experience with machine learning. To help upskill new community members, three colleagues and I organised a series of introductory machine learning talks and tutorials. 
 
-At the time, there was growing interest from staff in machine learning, as it was beginning to be used more in statistical production. As a result, we were seeing an uptick in the number of new members to the community, many of whom didn't have much experience with machine learning.
+While my colleagues worked on talks, I wanted facilitate a more interactive learning experience. To do so, I authored these hands-on tutorials, guiding new members through:
 
-To help upskill new members, three colleagues and I organised a series of introductory machine learning talks and tutorials. While my other colleagues worked on talks, I wanted to help members learn in a more interactive fashion. To do so, I authored three hands-on tutorials to introduce computational notebooks, programming in [R](https://www.r-project.org/) and neural networks (a particular machine learning method).
+- Navigating computational notebook environments. 
+- Programming fundamentals in the [R](https://www.r-project.org/) programming language.
+- Implementing and testing a [neural network](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)), a popular machine learning model.
 
 These tutorials were:
 
-- Designed to be approachable for people with a wide range of backgrounds and experiences. 
-- Sequenced to progressively build to a rewarding "capstone" task of coding up a neural network.
+- Designed to be approachable for staff with limited background in programming and machine learning, whilst also containing enough depth to engage more experienced members.
+- Sequenced to follow after my colleagues' more theoretical talks, progressively building up to a rewarding capstone task — coding a neural network.
 - Written in Markdown and R code using [Jupyter Notebooks](https://jupyter.org/).
 - Intended to be followed interactively on [Binder](https://mybinder.org/) in a group setting, with the support of a more experienced facilitator.
 
-Unfortunately, Binder sometimes seems take five to ten minutes to launch (and occasionally fails to launch at all). If you're having trouble loading the interactive Binder, please view the tutorial on GitHub using the link at the top of this page.
-
----
 
 
+[^1]: Unfortunately, Binder sometimes seems take five to ten minutes to launch (and occasionally fails to launch at all). If you're having trouble loading the interactive Binder, please view the tutorial on GitHub instead.
 

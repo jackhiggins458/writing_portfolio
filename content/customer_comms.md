@@ -6,17 +6,16 @@
 
 As mentioned in [Technical support responses]( {{< relref "customer_responses.md" >}} ), I currently work at [Fastmail](https://www.fastmail.com/). 
 
-Thousands of customers use Fastmail to host one or more simple static websites. As a result of some changes to Fastmail's internal networks, the IP addresses that users' websites were hosted on were scheduled for change. We could make these changes automatically for customers hosting their DNS records at Fastmail, but we needed all other users to manually update their DNS records at their host.
+Thousands of customers use Fastmail to host one or more simple static websites. Due to upcoming changes to Fastmail's internal networks, the IP addresses that customers used to host their websites on Fastmail were changing. We could make these changes automatically for customers hosting their DNS records at Fastmail, but we needed all other customers to manually update their DNS records at their host.
 
-I wrote a set of guides, emailed out to over a thousand affected customers, to explain the situation and the required steps customers would need to take to ensure their websites remained online.
+I wrote a set of guides (emailed to over a thousand affected customers) to explain the situation, and to outline the steps customers would need to take to ensure their websites remained online.
 
-I've pasted a (redacted) copy of one of the messages that was sent out below. This particular message would have been sent to any customer with one website hosted at Fastmail, where we detected that the DNS was hosted by Cloudflare. 
+Here's a (redacted) version of the guide I wrote that was sent to a customer. This particular message was sent to a customer with:
 
-Due to the wide variety of DNS hosts and configurations used by our users, I wrote multiple sets of steps for the six most commonly used DNS hosts by our users. This allowed us to provide specific, step by step instructions to the large majority of users. Users not hosting their domain on these any of these six hosts received a generic set of instructions instead.
+- Only one website hosted at Fastmail.
+-  Their DNS hosted by Cloudflare[^1].
 
 ---
-
-
 
 > Dear **$customer_name**,
 >
@@ -49,4 +48,4 @@ Due to the wide variety of DNS hosts and configurations used by our users, I wro
 >
 > If you have any questions or concerns about this change, or any of the steps you need to take, please reply to this message. Our Support team will be happy to assist.
 
----
+[^1]: Fastmail customers had domains hosted at many different hosts. Each host requires a slightly different set of steps to update DNS records. We identified that the majority of Fastmail customers used one of six hosts. I wrote a specific guide for each of these hosts, We sent each customer the guide matching their DNS host, allowing the majority of customers to receive exact, step by step instructions. Customers not hosting their domain on one of these six hosts received a generic set of instructions instead.
