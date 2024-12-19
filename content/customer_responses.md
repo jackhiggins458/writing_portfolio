@@ -88,11 +88,11 @@ Here are two of my recent responses to support requests[^1].
 >
 > I note that you want to be able to send via Fastmail, Google and Cloudflare. May I ask if you also need to be able to send via `mxexample.com`? 
 >
-> If not, I recommend you remove the `include:mxlogin.com` mechanism from your SPF record, as doing so will bring the number of lookups below 10,  and should thus resolve the error your seeing.
+> If not, I recommend you remove the `include:mxexample.com` mechanism from your SPF record, as doing so will bring the number of lookups below 10,  and should thus resolve the error your seeing.
 >
 > Please let me know how you go with this.
 >
 > Cheers,
 > Jack
 
-[^1]: To protect customer privacy, I've rewritten the customer's initial request, and changed some details, The core content of the concern, and my responses, remain the same.
+[^1]: To protect customer privacy, I've rewritten the customer's initial request, and changed some details, The core content of the concern, and my response, remain the same.
