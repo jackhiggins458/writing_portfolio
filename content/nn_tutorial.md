@@ -24,5 +24,5 @@ These tutorials were:
 
 I facilitated these tutorials once in 2021 and again in 2022, and received a significant amount of positive (as well as constructive) feedback from participants about their experience.
 
-[^1]: Unfortunately, Binder sometimes seems take five to ten minutes to launch (and occasionally fails to launch at all). If you're having trouble launching the interactive Binder, try viewing the tutorial on GitHub instead. Please note however that the GitHub preview of the notebooks has a few issues. For example, `$` characters in code blocks are incorrectly interpreted as the start of a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) command, causing some of the surrounding formatting to render incorrectly.
+[^1]: Unfortunately, Binder sometimes takes up to 10 minutes to launch (and occasionally fails to launch at all). If you're having trouble launching the interactive Binder, try viewing the tutorial on GitHub instead. Please note however that the GitHub preview of the notebooks has a few issues. For example, `$` characters in code blocks are incorrectly interpreted as the start of a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) command, causing some of the surrounding formatting to render incorrectly.
 
